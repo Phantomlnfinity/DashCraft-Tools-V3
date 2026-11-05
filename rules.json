@@ -4,7 +4,7 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": {
-      "urlFilter": "|https://dashcraft.io/remake/assets/index-aKhnHNjh.js|",
+      "urlFilter": "|https://dashcraft.io/remake/assets/index-*.js",
       "resourceTypes": ["script"]
     }
   }
